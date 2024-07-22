@@ -7,15 +7,14 @@
 <a href="https://linkedin.com/in/jose-freggiaro" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
- 
+
+<br/>
+
 Soy un desarrollador Full Stack en formación, con una sólida base en seguridad informática adquirida a lo largo de cinco años de experiencia. He trabajado con tecnologías como CyberArk, Sailpoint y OpenTrust, desarrollando habilidades en soporte a usuarios, monitoreo de sistemas y gestión de incidentes en entornos Windows y Unix. Actualmente, estoy ampliando mis conocimientos en JavaScript, TypeScript, NodeJS , Docker y PostgreSQL.
 
 Apasionado por la tecnología y el aprendizaje continuo, busco aplicar mis conocimientos en proyectos innovadores y colaborar de manera proactiva y receptiva con equipos multidisciplinarios. Comprometido a alcanzar y superar objetivos, enfrento desafíos con dinamismo y una actitud positiva. Valoro el trabajo en equipo efectivo y eficiente, y creo firmemente en la capacitación constante para contribuir tanto al crecimiento personal como al éxito de la empresa.  
-  
 
 <br/>  
-
 
 ## Lenguajes y Tecnologías  
 <div align="center">  
